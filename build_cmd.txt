@@ -1,0 +1,1 @@
+pyinstaller --onefile --clean --noconsole --icon="gear_salvage.ico" swgoh_gear.py

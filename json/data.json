@@ -1,0 +1,177 @@
+{
+    "name": "CT-5555 \"Fives\"",
+    "base_id": "CT5555",
+    "pk": 189,
+    "url": "http://swgoh.gg/characters/ct-5555-fives/",
+    "image": "/game-asset/u/CT5555.png",
+    "power": 34605,
+    "description": "Tank with high Defense, enemy Speed reduction, and team-wide stat bonuses",
+    "combat_type": 1,
+    "gear_levels": [
+        {
+            "tier": 1,
+            "gear": [
+                "001",
+                "002",
+                "003",
+                "004",
+                "005",
+                "007"
+            ]
+        },
+        {
+            "tier": 2,
+            "gear": [
+                "007",
+                "012",
+                "021",
+                "016",
+                "030",
+                "034"
+            ]
+        },
+        {
+            "tier": 3,
+            "gear": [
+                "018",
+                "030",
+                "032",
+                "048",
+                "040",
+                "065"
+            ]
+        },
+        {
+            "tier": 4,
+            "gear": [
+                "021",
+                "041",
+                "048",
+                "065",
+                "055",
+                "067"
+            ]
+        },
+        {
+            "tier": 5,
+            "gear": [
+                "037",
+                "048",
+                "065",
+                "061",
+                "063",
+                "080"
+            ]
+        },
+        {
+            "tier": 6,
+            "gear": [
+                "025",
+                "038",
+                "065",
+                "082",
+                "075",
+                "087"
+            ]
+        },
+        {
+            "tier": 7,
+            "gear": [
+                "048",
+                "065",
+                "063",
+                "081",
+                "088",
+                "105"
+            ]
+        },
+        {
+            "tier": 8,
+            "gear": [
+                "042",
+                "048",
+                "071",
+                "063",
+                "108",
+                "117"
+            ]
+        },
+        {
+            "tier": 9,
+            "gear": [
+                "112",
+                "108",
+                "108",
+                "111",
+                "117",
+                "120"
+            ]
+        },
+        {
+            "tier": 10,
+            "gear": [
+                "145",
+                "138",
+                "130",
+                "120",
+                "125",
+                "106"
+            ]
+        },
+        {
+            "tier": 11,
+            "gear": [
+                "131",
+                "145",
+                "125",
+                "146",
+                "124",
+                "137"
+            ]
+        },
+        {
+            "tier": 12,
+            "gear": [
+                "158",
+                "162",
+                "159",
+                "166",
+                "166",
+                "G12Finisher_CT5555_A"
+            ]
+        },
+        {
+            "tier": 13,
+            "gear": [
+                "9999",
+                "9999",
+                "9999",
+                "9999",
+                "9999",
+                "9999"
+            ]
+        }
+    ],
+    "alignment": "Light Side",
+    "categories": [
+        "501st",
+        "Clone Trooper",
+        "Galactic Republic",
+        "Leader",
+        "Tank"
+    ],
+    "ability_classes": [
+        "Assist",
+        "Bonus Attack",
+        "Counter",
+        "Gain Turn Meter",
+        "Leader: +Defense",
+        "Revive",
+        "Speed Down",
+        "Taunt"
+    ],
+    "role": "Tank",
+    "ship": "UMBARANSTARFIGHTER",
+    "ship_slot": 0,
+    "activate_shard_count": 50
+}
